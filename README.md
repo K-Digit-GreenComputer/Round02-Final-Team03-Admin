@@ -1,4 +1,4 @@
-# ReadMe App
+![image](https://github.com/kdit-2023/Round02-Final-Team03-Admin/assets/153582315/f530a6fa-57c4-4557-b450-36240c581349)# ReadMe App
 
 ![readme_long](https://github.com/ReadMeCorporation/app_ReadMe/assets/68271830/cb87d3f4-2a02-47d1-8894-371e7954dd02)
 
@@ -9,14 +9,14 @@
 수많은 전자책을 한 곳에서 쉽게 찾아 읽을 수 있는 편리함과 함께 즐겨찾은 페이지를 표시하고,</br> 읽은 책에 대한 리뷰를 공유하는 등 독서를 더욱 풍부하게 즐길 수 있습니다. </br>
 
 # 시연영상
-https://www.youtube.com/watch?v=MDKwmzJHqKE
+
 
 # 발표자료
-[3조_파이널_PDF.pdf](https://github.com/ReadMeCorporation/admin_server_ReadMe/files/11448345/3._._PDF.pdf)
+
 
 
 # 프로젝트 기간
-- 2023-04-10 ~ 2023.05.10
+- 2023-02-26 ~ 2023.03.05
 
 # 팀원 소개
 ### Back-End
@@ -30,19 +30,15 @@ https://www.youtube.com/watch?v=MDKwmzJHqKE
 # 기술 스택
 ## IDE
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-blue?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![visualstudiocode](https://img.shields.io/badge/-Android%20Studio-green?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 ## FrameWork
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)](https://flutter.dev)
-
 
 ## DB
 [![H2](https://img.shields.io/badge/-H2-orange?logo=h2&logoColor=white)](http://www.h2database.com)
-[![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com)
 
 ## 사용기술
-[![SQFLITE](https://img.shields.io/badge/-SQFLITE-blue?logo=flutter&logoColor=white)](https://pub.dev/packages/sqflite)
 [![EC2](https://img.shields.io/badge/-EC2-orange?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
 [![S3](https://img.shields.io/badge/-S3-yellow?logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
 [![JSP](https://img.shields.io/badge/-JSP-orange?logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javaserverpages.html)
